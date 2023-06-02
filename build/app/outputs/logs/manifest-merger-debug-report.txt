@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\a3b057aab8365acccfff4606fda57844\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\71925b19437ec9212132094c7cc0e409\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\266568107d924019ea97b6a48195ece1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3c89a6c9cf0323fed6ef360c0dbd86c1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\20e564c020dfd9d9ca38ed8be851d5d9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\cca4bb749e687a0e0d285e757b693986\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fadil\.gradle\caches\transforms-3\89b76f760155503430493c47981cc8a1\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3b7bf7da8b3ebeb038749b46358cd9d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\c51b3c055c4aff285e2ca58a20833830\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3f3f741fc845677e8dc27179187f02fc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\1e2560eb43abfd5c193373bbd6a1727b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\0f4cbcce5a12e89d31b0d086b177ff10\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fadil\.gradle\caches\transforms-3\4e7090ddbb3e68b891f889a1276bc315\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fadil\.gradle\caches\transforms-3\1f3c4a7b1ab4e63a0c7867697abf4fbe\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\b143b93924e3b408214b9865f8d3a13d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:15:5-37:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fadil\.gradle\caches\transforms-3\4e7090ddbb3e68b891f889a1276bc315\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fadil\.gradle\caches\transforms-3\4e7090ddbb3e68b891f889a1276bc315\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:16:9-32
+	android:icon
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:17:9-43
+activity#co.appbrewery.micard.MainActivity
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:18:9-36:20
+	android:launchMode
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:22:13-137
+	android:theme
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:19:13-41
+meta-data#flutterEmbedding
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:29:13-31:37
+	android:value
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:31:17-34
+	android:name
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:30:17-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\a3b057aab8365acccfff4606fda57844\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\a3b057aab8365acccfff4606fda57844\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\71925b19437ec9212132094c7cc0e409\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\71925b19437ec9212132094c7cc0e409\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\266568107d924019ea97b6a48195ece1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\266568107d924019ea97b6a48195ece1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3c89a6c9cf0323fed6ef360c0dbd86c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3c89a6c9cf0323fed6ef360c0dbd86c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\20e564c020dfd9d9ca38ed8be851d5d9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\20e564c020dfd9d9ca38ed8be851d5d9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\cca4bb749e687a0e0d285e757b693986\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\cca4bb749e687a0e0d285e757b693986\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\fadil\.gradle\caches\transforms-3\851beb350c8b78f2c072637765701799\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fadil\.gradle\caches\transforms-3\89b76f760155503430493c47981cc8a1\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fadil\.gradle\caches\transforms-3\89b76f760155503430493c47981cc8a1\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3b7bf7da8b3ebeb038749b46358cd9d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3b7bf7da8b3ebeb038749b46358cd9d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\c51b3c055c4aff285e2ca58a20833830\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\c51b3c055c4aff285e2ca58a20833830\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3f3f741fc845677e8dc27179187f02fc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\3f3f741fc845677e8dc27179187f02fc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\1e2560eb43abfd5c193373bbd6a1727b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fadil\.gradle\caches\transforms-3\1e2560eb43abfd5c193373bbd6a1727b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\0f4cbcce5a12e89d31b0d086b177ff10\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadil\.gradle\caches\transforms-3\0f4cbcce5a12e89d31b0d086b177ff10\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fadil\.gradle\caches\transforms-3\4e7090ddbb3e68b891f889a1276bc315\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fadil\.gradle\caches\transforms-3\4e7090ddbb3e68b891f889a1276bc315\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fadil\.gradle\caches\transforms-3\1f3c4a7b1ab4e63a0c7867697abf4fbe\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fadil\.gradle\caches\transforms-3\1f3c4a7b1ab4e63a0c7867697abf4fbe\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\b143b93924e3b408214b9865f8d3a13d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fadil\.gradle\caches\transforms-3\b143b93924e3b408214b9865f8d3a13d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadil\StudioProjects\mi_card_flutter\android\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fadil\.gradle\caches\transforms-3\05c7882a92507fc03965b680c104f33d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
